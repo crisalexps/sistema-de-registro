@@ -4,3 +4,5 @@ console.log(ejecutando el sistema')
 
 para ejecutar en el sistema debes poner 
 npm install react
+
+sistema de registros 2
